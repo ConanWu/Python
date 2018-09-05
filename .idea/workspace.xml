@@ -4,68 +4,7 @@
     <bookmark url="file://$PROJECT_DIR$/qqMailTest/test_project/test_case/test_baidu.py" line="55" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="51f51887-7712-4b90-8ebc-a4ea2b5b4f62" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Test_Framework/log/test.log.2018-05-31" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Test_Framework/log/test.log.2018-06-21" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Test_Framework/log/test.log.2018-08-03" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Test_Framework/log/test1.log" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/qqMailTest/test_project/report/2017-09-05_00_33_54result.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/qqMailTest/test_project/report/2017-09-05_00_40_17result.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/qqMailTest/test_project/report/2017-09-05_00_42_11result.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/qqMailTest/test_project/report/2017-09-06_01_24_27result.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/qqMailTest/test_project/report/2017-09-06_01_28_22result.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/qqMailTest/test_project/report/2017-09-06_01_52_40result.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/qqMailTest/test_project/report/2017-09-06_01_54_33result.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/qqMailTest/test_project/report/2017-09-06_02_04_17result.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/qqMailTest/test_project/report/2017_08_27 11_26_44result.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/qqMailTest/test_project/report/2017_08_27 11_46_33result.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/qqMailTest/test_project/report/2017_08_27 11_58_52result.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/qqMailTest/test_project/report/2018_03_28 22_53_49result.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/qqMailTest/user_info.csv" afterPath="$PROJECT_DIR$/qqMailTest/user_info.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Test_Framework/config/config.yml" afterPath="$PROJECT_DIR$/Test_Framework/config/config.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Test_Framework/config/config1.yml" afterPath="$PROJECT_DIR$/Test_Framework/config/config1.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Test_Framework/log/test.log" afterPath="$PROJECT_DIR$/Test_Framework/log/test.log" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Test_Framework/logtest1.log" afterPath="$PROJECT_DIR$/Test_Framework/logtest1.log" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Test_Framework/temp/geckodriver.log" afterPath="$PROJECT_DIR$/Test_Framework/temp/geckodriver.log" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Test_Framework/temp/temp_baidu.py" afterPath="$PROJECT_DIR$/Test_Framework/temp/temp_baidu.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Test_Framework/test/case/test_baidu.py" afterPath="$PROJECT_DIR$/Test_Framework/test/case/test_baidu.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Test_Framework/utils/config.py" afterPath="$PROJECT_DIR$/Test_Framework/utils/config.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Test_Framework/utils/file_reader.py" afterPath="$PROJECT_DIR$/Test_Framework/utils/file_reader.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Test_Framework/utils/log.py" afterPath="$PROJECT_DIR$/Test_Framework/utils/log.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python_Study/Class/AnimalClass.py" afterPath="$PROJECT_DIR$/python_Study/Class/AnimalClass.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python_Study/Class/MyClass.py" afterPath="$PROJECT_DIR$/python_Study/Class/MyClass.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python_Study/Class/StudentClass.py" afterPath="$PROJECT_DIR$/python_Study/Class/StudentClass.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python_Study/NumberGuess.py" afterPath="$PROJECT_DIR$/python_Study/NumberGuess.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python_Study/easygui_practice.py" afterPath="$PROJECT_DIR$/python_Study/easygui_practice.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python_Study/fahrenheit-centigrade.py" afterPath="$PROJECT_DIR$/python_Study/fahrenheit-centigrade.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python_Study/first.py" afterPath="$PROJECT_DIR$/python_Study/first.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python_Study/getfilefromurl.py" afterPath="$PROJECT_DIR$/python_Study/getfilefromurl.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python_Study/guessNumberByLin.py" afterPath="$PROJECT_DIR$/python_Study/guessNumberByLin.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python_Study/looper.py" afterPath="$PROJECT_DIR$/python_Study/looper.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/qqMailTest/PageObject/po_model.py" afterPath="$PROJECT_DIR$/qqMailTest/PageObject/po_model.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/qqMailTest/Public.py" afterPath="$PROJECT_DIR$/qqMailTest/Public.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/qqMailTest/TestCalculator.py" afterPath="$PROJECT_DIR$/qqMailTest/TestCalculator.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/qqMailTest/baiduTest/geckodriver.log" afterPath="$PROJECT_DIR$/qqMailTest/baiduTest/geckodriver.log" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/qqMailTest/firstPython.py" afterPath="$PROJECT_DIR$/qqMailTest/firstPython.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/qqMailTest/geckodriver.log" afterPath="$PROJECT_DIR$/qqMailTest/geckodriver.log" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/qqMailTest/info.xml" afterPath="$PROJECT_DIR$/qqMailTest/info.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/qqMailTest/qqMailTest.py" afterPath="$PROJECT_DIR$/qqMailTest/qqMailTest.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/qqMailTest/readCVS.py" afterPath="$PROJECT_DIR$/qqMailTest/readCVS.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/qqMailTest/readTxt.py" afterPath="$PROJECT_DIR$/qqMailTest/readTxt.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/qqMailTest/readXML.py" afterPath="$PROJECT_DIR$/qqMailTest/readXML.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/qqMailTest/sendEmail.py" afterPath="$PROJECT_DIR$/qqMailTest/sendEmail.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/qqMailTest/test_project/geckodriver.log" afterPath="$PROJECT_DIR$/qqMailTest/test_project/geckodriver.log" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/qqMailTest/test_project/runtest.py" afterPath="$PROJECT_DIR$/qqMailTest/test_project/runtest.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/qqMailTest/test_project/test_case/geckodriver.log" afterPath="$PROJECT_DIR$/qqMailTest/test_project/test_case/geckodriver.log" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/qqMailTest/test_project/test_case/test_baidu.py" afterPath="$PROJECT_DIR$/qqMailTest/test_project/test_case/test_baidu.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/qqMailTest/test_project/test_case/test_youdao.py" afterPath="$PROJECT_DIR$/qqMailTest/test_project/test_case/test_youdao.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/qqMailTest/unitTest/calculator.py" afterPath="$PROJECT_DIR$/qqMailTest/unitTest/calculator.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/qqMailTest/unitTest/runtest.py" afterPath="$PROJECT_DIR$/qqMailTest/unitTest/runtest.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/qqMailTest/unitTest/testadd.py" afterPath="$PROJECT_DIR$/qqMailTest/unitTest/testadd.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/qqMailTest/unitTest/testfixture.py" afterPath="$PROJECT_DIR$/qqMailTest/unitTest/testfixture.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/qqMailTest/unitTest/testisprime.py" afterPath="$PROJECT_DIR$/qqMailTest/unitTest/testisprime.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/qqMailTest/user_info.txt" afterPath="$PROJECT_DIR$/qqMailTest/user_info.txt" />
-    </list>
+    <list default="true" id="51f51887-7712-4b90-8ebc-a4ea2b5b4f62" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -100,8 +39,8 @@
       <file leaf-file-name="temp_baidu.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Test_Framework/temp/temp_baidu.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="503">
-              <caret line="67" column="0" lean-forward="true" selection-start-line="67" selection-start-column="0" selection-end-line="67" selection-end-column="0" />
+            <state relative-caret-position="439">
+              <caret line="63" column="0" lean-forward="true" selection-start-line="63" selection-start-column="0" selection-end-line="63" selection-end-column="0" />
               <folding>
                 <element signature="e#42#51#0" expanded="true" />
               </folding>
@@ -182,9 +121,9 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="734" />
-    <option name="y" value="26" />
-    <option name="width" value="1496" />
+    <option name="x" value="496" />
+    <option name="y" value="5" />
+    <option name="width" value="1398" />
     <option name="height" value="1056" />
   </component>
   <component name="ProjectLevelVcsManager">
@@ -456,10 +395,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="734" y="26" width="1496" height="1056" extended-state="0" />
+    <frame x="496" y="5" width="1398" height="1056" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21518105" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2309417" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295063" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29488575" sideWeight="0.5048439" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295325" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -896,8 +835,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Test_Framework/temp/temp_baidu.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="503">
-          <caret line="67" column="0" lean-forward="true" selection-start-line="67" selection-start-column="0" selection-end-line="67" selection-end-column="0" />
+        <state relative-caret-position="439">
+          <caret line="63" column="0" lean-forward="true" selection-start-line="63" selection-start-column="0" selection-end-line="63" selection-end-column="0" />
           <folding>
             <element signature="e#42#51#0" expanded="true" />
           </folding>
