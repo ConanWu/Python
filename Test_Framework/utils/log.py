@@ -3,6 +3,7 @@
 
 import logging
 from logging.handlers import TimedRotatingFileHandler
+from .config import Config
 from .config import LOG_PATH
 
 
@@ -10,15 +11,16 @@ class Logger(object):
     def __init__(self, logger_name='framework'):
         self.logger = logging.getLogger(logger_name)
         logging.root.setLevel(logging.NOTSET)
-        self.log_file_name = 'test.log'
-        self.backup_count = 5
+        log_obj = Config().get('log', 2)
+        self.log_file_name = log_obj.get('file_name')
+        self.backup_count = log_obj.get('backup')
 
         # log output level
-        self.console_output_level = 'WARNING'
-        self.file_output_level = 'DEBUG'
+        self.console_output_level = log_obj.get('console_level')
+        self.file_output_level = log_obj.get('file_level')
 
         # log output format
-        self.formatter = logging.Formatter('%(asctime)s - %(name)s - %(levelname)s - %(message)s')
+        self.formatter = logging.Formatter(log_obj.get('pattern'))
 
     def get_logger(self):
         if not self.logger.handlers:        # avoid duplicate log

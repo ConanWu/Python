@@ -17,7 +17,9 @@ class TestBaidu(unittest.TestCase):
     locator_result = (By.XPATH, '//div[contains(@class, "result")]/h3/a')
 
     def setUp(self):
-        self.driver = webdriver.Chrome(executable_path=DRIVER_PATH + '\chromedriver.exe')
+        option = webdriver.ChromeOptions()
+        option.add_argument("headless")
+        self.driver = webdriver.Chrome(executable_path=DRIVER_PATH + '\chromedriver.exe', chrome_options=option)
         self.driver.get(self.URL)
 
     def tearDown(self):
@@ -30,7 +32,7 @@ class TestBaidu(unittest.TestCase):
         links = self.driver.find_elements(*self.locator_result)
         for link in links:
             print(link.text)
-            # logger.info(link.text)
+            logger.info(link.text)
 
     def test_search_1(self):
         self.driver.find_element(*self.locator_kw).send_keys('250')
@@ -39,7 +41,8 @@ class TestBaidu(unittest.TestCase):
         links = self.driver.find_elements(*self.locator_result)
         for link in links:
             print(link.text)
-            # logger.info(link.text)
+            logger.info(link.text)
+
 
 if __name__ == '__main__':
     unittest.main()

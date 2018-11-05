@@ -6,8 +6,10 @@ import time
 import unittest
 from selenium import webdriver
 from selenium.webdriver.common.by import By
-from Test_Framework.utils.config import Config, DRIVER_PATH, LOG_PATH
+from Test_Framework.utils.config import Config, DRIVER_PATH, LOG_PATH, DATA_PATH
 import logging
+from logging import handlers
+import xlrd
 
 
 class TestBaidu1(unittest.TestCase):
@@ -50,18 +52,28 @@ class TestBaidu1(unittest.TestCase):
         stream_hander.setFormatter(format_obj)
         logger.addHandler(stream_hander)
 
-        file_hander = logging.FileHandler(os.path.join(LOG_PATH, 'test1.log'))
+        file_hander = logging.handlers.TimedRotatingFileHandler(filename=os.path.join(LOG_PATH, 'test1.log'),
+                                                                when='s',
+                                                                interval=1,
+                                                                backupCount=10,
+                                                                delay=True,
+                                                                encoding='utf-8')
         file_hander.setLevel(logging.INFO)
         file_hander.setFormatter(format_obj)
         logger.addHandler(file_hander)
         return logger
 
+    def readExcel(self):
+        data = xlrd.open_workbook(DATA_PATH)
+
+
 if __name__ == '__main__':
-    # unittest.main()
-    TestBaidu1().log().warning('warning')
+    unittest.main()
+    # TestBaidu1().log().warning('warning')
+    # time.sleep(2)
+    # TestBaidu1().log().warning('warning222')
+    # data = xlrd.open_workbook(os.path.join(DATA_PATH, 'baidu百度.xlsx'))
+    # sheet = data.sheet_by_index(0)
 
     a = 2
-
-
-
 

@@ -30,5 +30,3 @@ class Config:
         """
         return self.config[index].get(element)
 
-
-
