@@ -2,3 +2,10 @@ URL: http://www.baidu.com
 URL2: http://www.sina.cn
 ---
 URL3: http://www.google.com
+---
+log:
+    file_name: test.log
+    backup: 5
+    console_level: WARNING
+    file_level: DEBUG
+    pattern: '%(asctime)s - %(name)s - %(levelname)s - %(message)s'
