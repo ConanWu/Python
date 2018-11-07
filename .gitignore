@@ -1,4 +1,5 @@
 log/
+report/
 __pycache__/
 .idea/
 *.log

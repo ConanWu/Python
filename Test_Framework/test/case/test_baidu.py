@@ -5,9 +5,10 @@ import time
 import unittest
 from selenium import webdriver
 from selenium.webdriver.common.by import By
-from ...utils.config import Config, DRIVER_PATH, DATA_PATH
+from ...utils.config import Config, DRIVER_PATH, DATA_PATH, REPORT_PATH
 from ...utils.log import logger
 from ...utils.file_reader import ExcelReader
+from ...utils.HTMLTestRunner import HTMLTestRunner
 
 
 class TestBaidu(unittest.TestCase):
@@ -48,7 +49,7 @@ class TestBaidu(unittest.TestCase):
     def test_search_excel(self):
         datas = ExcelReader(self.excel).data
         for d in datas:
-            with self.subTest(data=d):
+            with self.subTest(aa=d):
                 self.sub_setUp()
                 self.driver.find_element(*self.locator_kw).send_keys(d['search'])
                 self.driver.find_element(*self.locator_su).click()
@@ -61,7 +62,10 @@ class TestBaidu(unittest.TestCase):
 
 
 if __name__ == '__main__':
-    unittest.main()
+    report = REPORT_PATH + '\\report.html'
+    with open(report, 'wb') as f:
+        runner = HTMLTestRunner(f, verbosity=2, title='测试百度搜索', description='修改报告')
+        runner.run(TestBaidu('test_search_excel'))
 
 
 
