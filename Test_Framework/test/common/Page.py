@@ -1,7 +1,8 @@
 #!/usr/bin/python3
 # -*- coding:utf-8 -*-
 
-from ..common.browser import Browser
+from Test_Framework.test.common.browser import Browser
+
 
 class Page(Browser):
     def __init__(self, page=None, browser_type='chrome'):
