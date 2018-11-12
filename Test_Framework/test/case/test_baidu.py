@@ -19,7 +19,7 @@ class TestBaidu(unittest.TestCase):
         self.page = BaiduMainPage(browser_type='chrome').get(self.URL, maximize_window=False)
 
     def sub_tearDown(self):
-        self.driver.quit()
+        self.page.quit()
 
     def te1st_search_0(self):
         self.driver.find_element(*self.locator_kw).send_keys('selenium')
@@ -42,15 +42,17 @@ class TestBaidu(unittest.TestCase):
     def test_search_excel(self):
         datas = ExcelReader(self.excel).data
         for d in datas:
-            with self.subTest(aa=d):
-                self.sub_setUp()
-                self.page.search(d['search'])
-                time.sleep(2)
-                self.page = BaiduResultPage(self.page)
-                links = self.page.result_links
-                for link in links:
-                    print(link.text)
-                    logger.info(link.text)
+            try:
+                with self.subTest(aa=d):
+                    self.sub_setUp()
+                    self.page.search(d['search'])
+                    time.sleep(2)
+                    self.page = BaiduResultPage(self.page)
+                    links = self.page.result_links
+                    for link in links:
+                        print(link.text)
+                        logger.info(link.text)
+            finally:
                 self.sub_tearDown()
 
 
@@ -59,6 +61,7 @@ if __name__ == '__main__':
     with open(report, 'wb') as f:
         runner = HTMLTestRunner(f, verbosity=2, title='测试百度搜索', description='修改报告')
         runner.run(TestBaidu('test_search_excel'))
+    #f.close()
 
 
 

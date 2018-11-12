@@ -91,8 +91,12 @@ class TestBaidu1(unittest.TestCase):
 #         a.sub_tearDown()
 #
 #     a = 2
+
+
 if __name__ == '__main__':
+    print('asdfasdf')
     report = REPORT_PATH + '\\report.html'
     with open(report, 'wb') as f:
         runner = HTMLTestRunner(f, verbosity=2, title='测试百度搜索', description='修改报告')
         runner.run(TestBaidu('test_search_excel'))
+        f.close()
