@@ -1,10 +1,13 @@
 #!/usr/bin/python3
 # -*- coding:utf-8 -*-
 
+import os
 import time
 import unittest
 
-from Test_Framework.utils.config import Config, DATA_PATH, REPORT_PATH
+from selenium import webdriver
+from selenium.webdriver.common.by import By
+from Test_Framework.utils.config import Config, DATA_PATH, DRIVER_PATH, REPORT_PATH
 from Test_Framework.utils.log import logger
 from Test_Framework.utils.file_reader import ExcelReader
 from Test_Framework.utils.HTMLTestRunner import HTMLTestRunner
@@ -14,6 +17,10 @@ from Test_Framework.test.page.baidu_result_page import BaiduMainPage, BaiduResul
 class TestBaidu(unittest.TestCase):
     URL = Config().get('URL')
     excel = DATA_PATH + '/baidu百度.xlsx'
+    locator_kw = (By.ID, 'kw')
+    locator_su = (By.ID, 'su')
+    locator_result = (By.XPATH, '//div[contains(@class, "result")]/h3/a')
+    driver = webdriver.Chrome(executable_path=os.path.join(DRIVER_PATH, 'chromedriver.exe'))
 
     def sub_setUp(self):
         self.page = BaiduMainPage(browser_type='chrome').get(self.URL, maximize_window=False)
@@ -21,7 +28,8 @@ class TestBaidu(unittest.TestCase):
     def sub_tearDown(self):
         self.page.quit()
 
-    def te1st_search_0(self):
+    def test_search_0(self):
+        self.driver.get(self.URL)
         self.driver.find_element(*self.locator_kw).send_keys('selenium')
         self.driver.find_element(*self.locator_su).click()
         time.sleep(2)
@@ -29,8 +37,11 @@ class TestBaidu(unittest.TestCase):
         for link in links:
             print(link.text)
             logger.info(link.text)
+        self.driver.quit()
+        self.driver.close()
 
-    def te1st_search_1(self):
+    def test_search_1(self):
+        self.driver.get(self.URL)
         self.driver.find_element(*self.locator_kw).send_keys('250')
         self.driver.find_element(*self.locator_su).click()
         time.sleep(2)
@@ -38,6 +49,10 @@ class TestBaidu(unittest.TestCase):
         for link in links:
             print(link.text)
             logger.info(link.text)
+        self.driver.quit()
+
+    def execute_add(self):
+        print("bbbaaaaaaaaaaaaaaaaaaaaaaaaaaaaa")
 
     def test_search_excel(self):
         datas = ExcelReader(self.excel).data
@@ -57,11 +72,10 @@ class TestBaidu(unittest.TestCase):
 
 
 if __name__ == '__main__':
-    report = REPORT_PATH + '\\report.html'
-    with open(report, 'wb') as f:
-        runner = HTMLTestRunner(f, verbosity=2, title='测试百度搜索', description='修改报告')
-        runner.run(TestBaidu('test_search_excel'))
-    #f.close()
+    unittest.main()
+    # mysuite = unittest.TestSuite
+    # mysuite.addTest(TestBaidu('test_search_0'))
+
 
 
 
