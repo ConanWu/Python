@@ -37,19 +37,19 @@ class TestBaidu(unittest.TestCase):
         for link in links:
             print(link.text)
             logger.info(link.text)
-        self.driver.quit()
-        self.driver.close()
 
     def test_search_1(self):
-        self.driver.get(self.URL)
-        self.driver.find_element(*self.locator_kw).send_keys('250')
-        self.driver.find_element(*self.locator_su).click()
-        time.sleep(2)
-        links = self.driver.find_elements(*self.locator_result)
-        for link in links:
-            print(link.text)
-            logger.info(link.text)
-        self.driver.quit()
+        try:
+            self.driver.get(self.URL)
+            self.driver.find_element(*self.locator_kw).send_keys('250')
+            self.driver.find_element(*self.locator_su).click()
+            time.sleep(2)
+            links = self.driver.find_elements(*self.locator_result)
+            for link in links:
+                print(link.text)
+                logger.info(link.text)
+        finally:
+            self.driver.quit()
 
     def execute_add(self):
         print("bbbaaaaaaaaaaaaaaaaaaaaaaaaaaaaa")
@@ -73,8 +73,6 @@ class TestBaidu(unittest.TestCase):
 
 if __name__ == '__main__':
     unittest.main()
-    # mysuite = unittest.TestSuite
-    # mysuite.addTest(TestBaidu('test_search_0'))
 
 
 

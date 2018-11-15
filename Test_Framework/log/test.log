@@ -658,3 +658,363 @@
 2018-11-15 00:58:01,928 - framework - INFO - selenium用法详解 - 道高一尺 - 博客园
 2018-11-15 00:58:01,959 - framework - INFO - python client for selenium - selenium · PyPI
 2018-11-15 00:58:02,008 - framework - INFO - 基于Selenium的web自动化框架 - 徐文 - 博客园
+2018-11-15 22:59:44,485 - framework - INFO - Selenium - Web Browser Automation
+2018-11-15 22:59:44,529 - framework - INFO - Selenium(浏览器自动化测试框架)_百度百科
+2018-11-15 22:59:44,556 - framework - INFO - 功能自动化测试工具——Selenium篇
+2018-11-15 22:59:44,577 - framework - INFO - selenium用法详解 - 天涯笨熊的博客 - CSDN博客
+2018-11-15 22:59:44,615 - framework - INFO - python爬虫从入门到放弃(八)之 Selenium库的使用 - pytho..._博客园
+2018-11-15 22:59:44,636 - framework - INFO - Selenium Documentation — Selenium Documentation
+2018-11-15 22:59:44,656 - framework - INFO - selenium用法详解 - 道高一尺 - 博客园
+2018-11-15 22:59:44,677 - framework - INFO - selenium package - selenium · PyPI
+2018-11-15 22:59:44,698 - framework - INFO - Selenium WebDriver — Selenium Documentation
+2018-11-15 22:59:44,719 - framework - INFO - Selenium Webdriver - Selenium教程™
+2018-11-15 22:59:55,500 - framework - INFO - 【灰蓝】只有想不通的人,没有走不通的路。 - CSDN博客
+2018-11-15 22:59:55,534 - framework - INFO - ...—— selenium与自动化测试成神之路 - 灰蓝 - CSDN博客...
+2018-11-15 22:59:55,555 - framework - INFO - ...搭建一个既可以功能测试+又可以接口测试框架(灰蓝作..._CSDN博客
+2018-11-15 22:59:55,576 - framework - INFO - Python selenium —— 动态id、class怎么定位 - 灰蓝 - CSDN博客
+2018-11-15 22:59:55,597 - framework - INFO - 【灰蓝】Selenium - CSDN博客
+2018-11-15 22:59:55,616 - framework - INFO - selenium之 下拉选择框Select - 灰蓝 - CSDN博客
+2018-11-15 22:59:55,637 - framework - INFO - selenium 学习网站 - 灰蓝 - CSDN博客
+2018-11-15 22:59:55,658 - framework - INFO - selenium之 文件上传所有方法整理总结 - 灰蓝 - CSDN博客
+2018-11-15 22:59:55,677 - framework - INFO - Python+Selenium学习--自动化测试模型 - uniquefu - 博客园
+2018-11-15 22:59:55,697 - framework - INFO - selenium之 时间日期控件的处理 - 灰蓝 - CSDN博客
+2018-11-15 23:00:05,246 - framework - INFO - python爬虫从入门到放弃(八)之 Selenium库的使用 - pytho...-博客园
+2018-11-15 23:00:05,266 - framework - INFO - python bindings for selenium - selenium · PyPI
+2018-11-15 23:00:05,287 - framework - INFO - Selenium with Python — Selenium Python Bindings 2 ...
+2018-11-15 23:00:05,307 - framework - INFO - Selenium基于Python 进行 web 自动化测试 - 韩小北 - 博客园
+2018-11-15 23:00:05,328 - framework - INFO - Python 爬虫基础Selenium库的使用(二十二01) - 凯耐的博客 - CSDN...
+2018-11-15 23:00:05,347 - framework - INFO - selenium+python自动化测试系列(一):登录 - janehost - 博客园
+2018-11-15 23:00:05,372 - framework - INFO - Python Selenium个人学习笔记 - lonlon29的博客 - CSDN博客
+2018-11-15 23:00:05,392 - framework - INFO - Python+selenium基础学习 - csdn_sea的博客 - CSDN博客
+2018-11-15 23:00:05,412 - framework - INFO - 2. 快速入门 — Selenium-Python中文文档 2 documentation
+2018-11-15 23:00:05,434 - framework - INFO - Selenium with Python中文翻译文档 — Selenium-Python中文文档 2...
+2018-11-15 23:03:34,700 - framework - INFO - Selenium - Web Browser Automation
+2018-11-15 23:03:34,721 - framework - INFO - Selenium(浏览器自动化测试框架)_百度百科
+2018-11-15 23:03:34,741 - framework - INFO - 功能自动化测试工具——Selenium篇
+2018-11-15 23:03:34,761 - framework - INFO - selenium用法详解 - 天涯笨熊的博客 - CSDN博客
+2018-11-15 23:03:34,782 - framework - INFO - python爬虫从入门到放弃(八)之 Selenium库的使用 - pytho..._博客园
+2018-11-15 23:03:34,806 - framework - INFO - Selenium Documentation — Selenium Documentation
+2018-11-15 23:03:34,830 - framework - INFO - selenium用法详解 - 道高一尺 - 博客园
+2018-11-15 23:03:34,851 - framework - INFO - selenium package - selenium · PyPI
+2018-11-15 23:03:34,873 - framework - INFO - Selenium WebDriver — Selenium Documentation
+2018-11-15 23:03:34,896 - framework - INFO - Selenium Webdriver - Selenium教程™
+2018-11-15 23:03:51,029 - framework - INFO - 【灰蓝】只有想不通的人,没有走不通的路。 - CSDN博客
+2018-11-15 23:03:51,053 - framework - INFO - ...—— selenium与自动化测试成神之路 - 灰蓝 - CSDN博客...
+2018-11-15 23:03:51,072 - framework - INFO - ...搭建一个既可以功能测试+又可以接口测试框架(灰蓝作..._CSDN博客
+2018-11-15 23:03:51,093 - framework - INFO - Python selenium —— 动态id、class怎么定位 - 灰蓝 - CSDN博客
+2018-11-15 23:03:51,116 - framework - INFO - 【灰蓝】Selenium - CSDN博客
+2018-11-15 23:03:51,139 - framework - INFO - selenium之 下拉选择框Select - 灰蓝 - CSDN博客
+2018-11-15 23:03:51,171 - framework - INFO - selenium 学习网站 - 灰蓝 - CSDN博客
+2018-11-15 23:03:51,192 - framework - INFO - selenium之 文件上传所有方法整理总结 - 灰蓝 - CSDN博客
+2018-11-15 23:03:51,213 - framework - INFO - Python+Selenium学习--自动化测试模型 - uniquefu - 博客园
+2018-11-15 23:03:51,236 - framework - INFO - selenium之 时间日期控件的处理 - 灰蓝 - CSDN博客
+2018-11-15 23:04:00,730 - framework - INFO - python爬虫从入门到放弃(八)之 Selenium库的使用 - pytho...-博客园
+2018-11-15 23:04:00,791 - framework - INFO - python bindings for selenium - selenium · PyPI
+2018-11-15 23:04:00,817 - framework - INFO - Selenium with Python — Selenium Python Bindings 2 ...
+2018-11-15 23:04:00,838 - framework - INFO - Selenium基于Python 进行 web 自动化测试 - 韩小北 - 博客园
+2018-11-15 23:04:00,859 - framework - INFO - Python 爬虫基础Selenium库的使用(二十二01) - 凯耐的博客 - CSDN...
+2018-11-15 23:04:00,882 - framework - INFO - selenium+python自动化测试系列(一):登录 - janehost - 博客园
+2018-11-15 23:04:00,903 - framework - INFO - Python Selenium个人学习笔记 - lonlon29的博客 - CSDN博客
+2018-11-15 23:04:00,925 - framework - INFO - Python+selenium基础学习 - csdn_sea的博客 - CSDN博客
+2018-11-15 23:04:00,946 - framework - INFO - 2. 快速入门 — Selenium-Python中文文档 2 documentation
+2018-11-15 23:04:00,970 - framework - INFO - Selenium with Python中文翻译文档 — Selenium-Python中文文档 2...
+2018-11-15 23:11:25,120 - framework - INFO - Selenium - Web Browser Automation
+2018-11-15 23:11:25,141 - framework - INFO - Selenium(浏览器自动化测试框架)_百度百科
+2018-11-15 23:11:25,160 - framework - INFO - 功能自动化测试工具——Selenium篇
+2018-11-15 23:11:25,180 - framework - INFO - selenium用法详解 - 天涯笨熊的博客 - CSDN博客
+2018-11-15 23:11:25,199 - framework - INFO - python爬虫从入门到放弃(八)之 Selenium库的使用 - pytho..._博客园
+2018-11-15 23:11:25,221 - framework - INFO - Selenium Documentation — Selenium Documentation
+2018-11-15 23:11:25,241 - framework - INFO - selenium用法详解 - 道高一尺 - 博客园
+2018-11-15 23:11:25,261 - framework - INFO - selenium package - selenium · PyPI
+2018-11-15 23:11:25,282 - framework - INFO - Selenium WebDriver — Selenium Documentation
+2018-11-15 23:11:25,304 - framework - INFO - Selenium Webdriver - Selenium教程™
+2018-11-15 23:11:37,779 - framework - INFO - 【灰蓝】只有想不通的人,没有走不通的路。 - CSDN博客
+2018-11-15 23:11:37,804 - framework - INFO - ...—— selenium与自动化测试成神之路 - 灰蓝 - CSDN博客...
+2018-11-15 23:11:37,825 - framework - INFO - ...搭建一个既可以功能测试+又可以接口测试框架(灰蓝作..._CSDN博客
+2018-11-15 23:11:37,848 - framework - INFO - Python selenium —— 动态id、class怎么定位 - 灰蓝 - CSDN博客
+2018-11-15 23:11:37,871 - framework - INFO - 【灰蓝】Selenium - CSDN博客
+2018-11-15 23:11:37,893 - framework - INFO - selenium之 下拉选择框Select - 灰蓝 - CSDN博客
+2018-11-15 23:11:37,913 - framework - INFO - selenium 学习网站 - 灰蓝 - CSDN博客
+2018-11-15 23:11:37,934 - framework - INFO - selenium之 文件上传所有方法整理总结 - 灰蓝 - CSDN博客
+2018-11-15 23:11:37,956 - framework - INFO - Python+Selenium学习--自动化测试模型 - uniquefu - 博客园
+2018-11-15 23:11:37,977 - framework - INFO - selenium之 时间日期控件的处理 - 灰蓝 - CSDN博客
+2018-11-15 23:11:47,864 - framework - INFO - python爬虫从入门到放弃(八)之 Selenium库的使用 - pytho...-博客园
+2018-11-15 23:11:47,888 - framework - INFO - python bindings for selenium - selenium · PyPI
+2018-11-15 23:11:47,911 - framework - INFO - Selenium with Python — Selenium Python Bindings 2 ...
+2018-11-15 23:11:47,931 - framework - INFO - Selenium基于Python 进行 web 自动化测试 - 韩小北 - 博客园
+2018-11-15 23:11:47,950 - framework - INFO - Python 爬虫基础Selenium库的使用(二十二01) - 凯耐的博客 - CSDN...
+2018-11-15 23:11:47,969 - framework - INFO - selenium+python自动化测试系列(一):登录 - janehost - 博客园
+2018-11-15 23:11:47,995 - framework - INFO - Python Selenium个人学习笔记 - lonlon29的博客 - CSDN博客
+2018-11-15 23:11:48,015 - framework - INFO - Python+selenium基础学习 - csdn_sea的博客 - CSDN博客
+2018-11-15 23:11:48,034 - framework - INFO - 2. 快速入门 — Selenium-Python中文文档 2 documentation
+2018-11-15 23:11:48,054 - framework - INFO - Selenium with Python中文翻译文档 — Selenium-Python中文文档 2...
+2018-11-15 23:19:56,076 - framework - INFO - Selenium - Web Browser Automation
+2018-11-15 23:19:56,096 - framework - INFO - Selenium(浏览器自动化测试框架)_百度百科
+2018-11-15 23:19:56,116 - framework - INFO - 功能自动化测试工具——Selenium篇
+2018-11-15 23:19:56,137 - framework - INFO - selenium用法详解 - 天涯笨熊的博客 - CSDN博客
+2018-11-15 23:19:56,156 - framework - INFO - python爬虫从入门到放弃(八)之 Selenium库的使用 - pytho..._博客园
+2018-11-15 23:19:56,178 - framework - INFO - Selenium Documentation — Selenium Documentation
+2018-11-15 23:19:56,197 - framework - INFO - selenium用法详解 - 道高一尺 - 博客园
+2018-11-15 23:19:56,217 - framework - INFO - selenium package - selenium · PyPI
+2018-11-15 23:19:56,236 - framework - INFO - Selenium Webdriver - Selenium教程™
+2018-11-15 23:19:56,256 - framework - INFO - 基于Selenium的web自动化框架 - 徐文 - 博客园
+2018-11-15 23:20:07,025 - framework - INFO - 【灰蓝】只有想不通的人,没有走不通的路。 - CSDN博客
+2018-11-15 23:20:07,052 - framework - INFO - ...—— selenium与自动化测试成神之路 - 灰蓝 - CSDN博客...
+2018-11-15 23:20:07,072 - framework - INFO - ...搭建一个既可以功能测试+又可以接口测试框架(灰蓝作..._CSDN博客
+2018-11-15 23:20:07,092 - framework - INFO - Python selenium —— 动态id、class怎么定位 - 灰蓝 - CSDN博客
+2018-11-15 23:20:07,111 - framework - INFO - 【灰蓝】Selenium - CSDN博客
+2018-11-15 23:20:07,132 - framework - INFO - selenium之 下拉选择框Select - 灰蓝 - CSDN博客
+2018-11-15 23:20:07,153 - framework - INFO - selenium 学习网站 - 灰蓝 - CSDN博客
+2018-11-15 23:20:07,173 - framework - INFO - selenium之 文件上传所有方法整理总结 - 灰蓝 - CSDN博客
+2018-11-15 23:20:07,192 - framework - INFO - Python+Selenium学习--自动化测试模型 - uniquefu - 博客园
+2018-11-15 23:20:07,211 - framework - INFO - selenium之 时间日期控件的处理 - 灰蓝 - CSDN博客
+2018-11-15 23:20:16,936 - framework - INFO - python爬虫从入门到放弃(八)之 Selenium库的使用 - pytho...-博客园
+2018-11-15 23:20:16,957 - framework - INFO - python bindings for selenium - selenium · PyPI
+2018-11-15 23:20:16,979 - framework - INFO - Selenium with Python — Selenium Python Bindings 2 ...
+2018-11-15 23:20:16,999 - framework - INFO - Selenium基于Python 进行 web 自动化测试 - 韩小北 - 博客园
+2018-11-15 23:20:17,020 - framework - INFO - Python 爬虫基础Selenium库的使用(二十二01) - 凯耐的博客 - CSDN...
+2018-11-15 23:20:17,040 - framework - INFO - selenium+python自动化测试系列(一):登录 - janehost - 博客园
+2018-11-15 23:20:17,061 - framework - INFO - Python Selenium个人学习笔记 - lonlon29的博客 - CSDN博客
+2018-11-15 23:20:17,082 - framework - INFO - Python+selenium基础学习 - csdn_sea的博客 - CSDN博客
+2018-11-15 23:20:17,106 - framework - INFO - 2. 快速入门 — Selenium-Python中文文档 2 documentation
+2018-11-15 23:20:17,147 - framework - INFO - Selenium with Python中文翻译文档 — Selenium-Python中文文档 2...
+2018-11-15 23:22:11,663 - framework - INFO - Selenium - Web Browser Automation
+2018-11-15 23:22:11,683 - framework - INFO - Selenium(浏览器自动化测试框架)_百度百科
+2018-11-15 23:22:11,703 - framework - INFO - 功能自动化测试工具——Selenium篇
+2018-11-15 23:22:11,723 - framework - INFO - selenium用法详解 - 天涯笨熊的博客 - CSDN博客
+2018-11-15 23:22:11,744 - framework - INFO - python爬虫从入门到放弃(八)之 Selenium库的使用 - pytho..._博客园
+2018-11-15 23:22:11,764 - framework - INFO - Selenium Documentation — Selenium Documentation
+2018-11-15 23:22:11,784 - framework - INFO - selenium用法详解 - 道高一尺 - 博客园
+2018-11-15 23:22:11,806 - framework - INFO - selenium package - selenium · PyPI
+2018-11-15 23:22:11,832 - framework - INFO - Selenium Webdriver - Selenium教程™
+2018-11-15 23:22:11,852 - framework - INFO - 基于Selenium的web自动化框架 - 徐文 - 博客园
+2018-11-15 23:22:21,561 - framework - INFO - 【灰蓝】只有想不通的人,没有走不通的路。 - CSDN博客
+2018-11-15 23:22:21,585 - framework - INFO - ...—— selenium与自动化测试成神之路 - 灰蓝 - CSDN博客...
+2018-11-15 23:22:21,605 - framework - INFO - ...搭建一个既可以功能测试+又可以接口测试框架(灰蓝作..._CSDN博客
+2018-11-15 23:22:21,625 - framework - INFO - Python selenium —— 动态id、class怎么定位 - 灰蓝 - CSDN博客
+2018-11-15 23:22:21,646 - framework - INFO - 【灰蓝】Selenium - CSDN博客
+2018-11-15 23:22:21,666 - framework - INFO - selenium之 下拉选择框Select - 灰蓝 - CSDN博客
+2018-11-15 23:22:21,687 - framework - INFO - selenium 学习网站 - 灰蓝 - CSDN博客
+2018-11-15 23:22:21,708 - framework - INFO - selenium之 文件上传所有方法整理总结 - 灰蓝 - CSDN博客
+2018-11-15 23:22:21,726 - framework - INFO - Python+Selenium学习--自动化测试模型 - uniquefu - 博客园
+2018-11-15 23:22:21,747 - framework - INFO - selenium之 时间日期控件的处理 - 灰蓝 - CSDN博客
+2018-11-15 23:22:31,490 - framework - INFO - python爬虫从入门到放弃(八)之 Selenium库的使用 - pytho...-博客园
+2018-11-15 23:22:31,523 - framework - INFO - python bindings for selenium - selenium · PyPI
+2018-11-15 23:22:31,548 - framework - INFO - Selenium with Python — Selenium Python Bindings 2 ...
+2018-11-15 23:22:31,568 - framework - INFO - Selenium基于Python 进行 web 自动化测试 - 韩小北 - 博客园
+2018-11-15 23:22:31,590 - framework - INFO - Python 爬虫基础Selenium库的使用(二十二01) - 凯耐的博客 - CSDN...
+2018-11-15 23:22:31,610 - framework - INFO - selenium+python自动化测试系列(一):登录 - janehost - 博客园
+2018-11-15 23:22:31,636 - framework - INFO - Python Selenium个人学习笔记 - lonlon29的博客 - CSDN博客
+2018-11-15 23:22:31,656 - framework - INFO - Python+selenium基础学习 - csdn_sea的博客 - CSDN博客
+2018-11-15 23:22:31,677 - framework - INFO - 2. 快速入门 — Selenium-Python中文文档 2 documentation
+2018-11-15 23:22:31,701 - framework - INFO - Selenium with Python中文翻译文档 — Selenium-Python中文文档 2...
+2018-11-15 23:24:10,317 - framework - INFO - Selenium - Web Browser Automation
+2018-11-15 23:24:10,340 - framework - INFO - Selenium(浏览器自动化测试框架)_百度百科
+2018-11-15 23:24:10,359 - framework - INFO - 功能自动化测试工具——Selenium篇
+2018-11-15 23:24:10,379 - framework - INFO - selenium用法详解 - 天涯笨熊的博客 - CSDN博客
+2018-11-15 23:24:10,399 - framework - INFO - python爬虫从入门到放弃(八)之 Selenium库的使用 - pytho..._博客园
+2018-11-15 23:24:10,419 - framework - INFO - Selenium Documentation — Selenium Documentation
+2018-11-15 23:24:10,438 - framework - INFO - selenium用法详解 - 道高一尺 - 博客园
+2018-11-15 23:24:10,458 - framework - INFO - selenium package - selenium · PyPI
+2018-11-15 23:24:10,479 - framework - INFO - Selenium Webdriver - Selenium教程™
+2018-11-15 23:24:10,504 - framework - INFO - 基于Selenium的web自动化框架 - 徐文 - 博客园
+2018-11-15 23:24:21,243 - framework - INFO - 【灰蓝】只有想不通的人,没有走不通的路。 - CSDN博客
+2018-11-15 23:24:21,265 - framework - INFO - ...—— selenium与自动化测试成神之路 - 灰蓝 - CSDN博客...
+2018-11-15 23:24:21,287 - framework - INFO - ...搭建一个既可以功能测试+又可以接口测试框架(灰蓝作..._CSDN博客
+2018-11-15 23:24:21,309 - framework - INFO - Python selenium —— 动态id、class怎么定位 - 灰蓝 - CSDN博客
+2018-11-15 23:24:21,330 - framework - INFO - 【灰蓝】Selenium - CSDN博客
+2018-11-15 23:24:21,351 - framework - INFO - selenium之 下拉选择框Select - 灰蓝 - CSDN博客
+2018-11-15 23:24:21,373 - framework - INFO - selenium 学习网站 - 灰蓝 - CSDN博客
+2018-11-15 23:24:21,395 - framework - INFO - selenium之 文件上传所有方法整理总结 - 灰蓝 - CSDN博客
+2018-11-15 23:24:21,415 - framework - INFO - Python+Selenium学习--自动化测试模型 - uniquefu - 博客园
+2018-11-15 23:24:21,436 - framework - INFO - selenium之 时间日期控件的处理 - 灰蓝 - CSDN博客
+2018-11-15 23:24:31,011 - framework - INFO - python爬虫从入门到放弃(八)之 Selenium库的使用 - pytho...-博客园
+2018-11-15 23:24:31,037 - framework - INFO - python bindings for selenium - selenium · PyPI
+2018-11-15 23:24:31,059 - framework - INFO - Selenium with Python — Selenium Python Bindings 2 ...
+2018-11-15 23:24:31,079 - framework - INFO - Selenium基于Python 进行 web 自动化测试 - 韩小北 - 博客园
+2018-11-15 23:24:31,099 - framework - INFO - Python 爬虫基础Selenium库的使用(二十二01) - 凯耐的博客 - CSDN...
+2018-11-15 23:24:31,126 - framework - INFO - selenium+python自动化测试系列(一):登录 - janehost - 博客园
+2018-11-15 23:24:31,147 - framework - INFO - Python Selenium个人学习笔记 - lonlon29的博客 - CSDN博客
+2018-11-15 23:24:31,167 - framework - INFO - Python+selenium基础学习 - csdn_sea的博客 - CSDN博客
+2018-11-15 23:24:31,186 - framework - INFO - 2. 快速入门 — Selenium-Python中文文档 2 documentation
+2018-11-15 23:24:31,207 - framework - INFO - Selenium with Python中文翻译文档 — Selenium-Python中文文档 2...
+2018-11-15 23:40:19,953 - framework - INFO - Selenium - Web Browser Automation
+2018-11-15 23:40:19,975 - framework - INFO - Selenium(浏览器自动化测试框架)_百度百科
+2018-11-15 23:40:19,996 - framework - INFO - 功能自动化测试工具——Selenium篇
+2018-11-15 23:40:20,016 - framework - INFO - selenium用法详解 - 天涯笨熊的博客 - CSDN博客
+2018-11-15 23:40:20,035 - framework - INFO - python爬虫从入门到放弃(八)之 Selenium库的使用 - pytho..._博客园
+2018-11-15 23:40:20,055 - framework - INFO - Selenium Documentation — Selenium Documentation
+2018-11-15 23:40:20,075 - framework - INFO - selenium用法详解 - 道高一尺 - 博客园
+2018-11-15 23:40:20,096 - framework - INFO - selenium package - selenium · PyPI
+2018-11-15 23:40:20,116 - framework - INFO - Selenium Webdriver - Selenium教程™
+2018-11-15 23:40:20,139 - framework - INFO - 基于Selenium的web自动化框架 - 徐文 - 博客园
+2018-11-15 23:41:32,008 - framework - INFO - Selenium - Web Browser Automation
+2018-11-15 23:41:32,028 - framework - INFO - Selenium(浏览器自动化测试框架)_百度百科
+2018-11-15 23:41:32,047 - framework - INFO - 功能自动化测试工具——Selenium篇
+2018-11-15 23:41:32,067 - framework - INFO - selenium用法详解 - 天涯笨熊的博客 - CSDN博客
+2018-11-15 23:41:32,088 - framework - INFO - python爬虫从入门到放弃(八)之 Selenium库的使用 - pytho..._博客园
+2018-11-15 23:41:32,108 - framework - INFO - Selenium Documentation — Selenium Documentation
+2018-11-15 23:41:32,128 - framework - INFO - selenium用法详解 - 道高一尺 - 博客园
+2018-11-15 23:41:32,149 - framework - INFO - selenium package - selenium · PyPI
+2018-11-15 23:41:32,169 - framework - INFO - Selenium Webdriver - Selenium教程™
+2018-11-15 23:41:32,191 - framework - INFO - 基于Selenium的web自动化框架 - 徐文 - 博客园
+2018-11-15 23:41:59,710 - framework - INFO - Selenium - Web Browser Automation
+2018-11-15 23:41:59,734 - framework - INFO - Selenium(浏览器自动化测试框架)_百度百科
+2018-11-15 23:41:59,753 - framework - INFO - 功能自动化测试工具——Selenium篇
+2018-11-15 23:41:59,771 - framework - INFO - selenium用法详解 - 天涯笨熊的博客 - CSDN博客
+2018-11-15 23:41:59,792 - framework - INFO - python爬虫从入门到放弃(八)之 Selenium库的使用 - pytho..._博客园
+2018-11-15 23:41:59,811 - framework - INFO - Selenium Documentation — Selenium Documentation
+2018-11-15 23:41:59,832 - framework - INFO - selenium用法详解 - 道高一尺 - 博客园
+2018-11-15 23:41:59,855 - framework - INFO - selenium package - selenium · PyPI
+2018-11-15 23:41:59,874 - framework - INFO - Selenium Webdriver - Selenium教程™
+2018-11-15 23:41:59,893 - framework - INFO - 基于Selenium的web自动化框架 - 徐文 - 博客园
+2018-11-15 23:43:25,438 - framework - INFO - Selenium - Web Browser Automation
+2018-11-15 23:43:25,460 - framework - INFO - Selenium(浏览器自动化测试框架)_百度百科
+2018-11-15 23:43:25,480 - framework - INFO - 功能自动化测试工具——Selenium篇
+2018-11-15 23:43:25,501 - framework - INFO - selenium用法详解 - 天涯笨熊的博客 - CSDN博客
+2018-11-15 23:43:25,525 - framework - INFO - python爬虫从入门到放弃(八)之 Selenium库的使用 - pytho..._博客园
+2018-11-15 23:43:25,545 - framework - INFO - Selenium Documentation — Selenium Documentation
+2018-11-15 23:43:25,566 - framework - INFO - selenium用法详解 - 道高一尺 - 博客园
+2018-11-15 23:43:25,586 - framework - INFO - selenium package - selenium · PyPI
+2018-11-15 23:43:25,606 - framework - INFO - Selenium Webdriver - Selenium教程™
+2018-11-15 23:43:25,627 - framework - INFO - 基于Selenium的web自动化框架 - 徐文 - 博客园
+2018-11-15 23:51:25,346 - framework - INFO - Selenium - Web Browser Automation
+2018-11-15 23:51:25,369 - framework - INFO - Selenium(浏览器自动化测试框架)_百度百科
+2018-11-15 23:51:25,391 - framework - INFO - 功能自动化测试工具——Selenium篇
+2018-11-15 23:51:25,412 - framework - INFO - selenium用法详解 - 天涯笨熊的博客 - CSDN博客
+2018-11-15 23:51:25,432 - framework - INFO - python爬虫从入门到放弃(八)之 Selenium库的使用 - pytho..._博客园
+2018-11-15 23:51:25,453 - framework - INFO - Selenium Documentation — Selenium Documentation
+2018-11-15 23:51:25,474 - framework - INFO - selenium用法详解 - 道高一尺 - 博客园
+2018-11-15 23:51:25,495 - framework - INFO - selenium package - selenium · PyPI
+2018-11-15 23:51:25,518 - framework - INFO - Selenium Webdriver - Selenium教程™
+2018-11-15 23:51:25,538 - framework - INFO - 基于Selenium的web自动化框架 - 徐文 - 博客园
+2018-11-15 23:55:07,061 - framework - INFO - Selenium - Web Browser Automation
+2018-11-15 23:55:07,085 - framework - INFO - Selenium(浏览器自动化测试框架)_百度百科
+2018-11-15 23:55:07,105 - framework - INFO - 功能自动化测试工具——Selenium篇
+2018-11-15 23:55:07,127 - framework - INFO - selenium用法详解 - 天涯笨熊的博客 - CSDN博客
+2018-11-15 23:55:07,148 - framework - INFO - python爬虫从入门到放弃(八)之 Selenium库的使用 - pytho..._博客园
+2018-11-15 23:55:07,168 - framework - INFO - Selenium Documentation — Selenium Documentation
+2018-11-15 23:55:07,188 - framework - INFO - selenium用法详解 - 道高一尺 - 博客园
+2018-11-15 23:55:07,207 - framework - INFO - selenium package - selenium · PyPI
+2018-11-15 23:55:07,228 - framework - INFO - Selenium Webdriver - Selenium教程™
+2018-11-15 23:55:07,254 - framework - INFO - 基于Selenium的web自动化框架 - 徐文 - 博客园
+2018-11-15 23:57:40,960 - framework - INFO - Selenium - Web Browser Automation
+2018-11-15 23:57:40,984 - framework - INFO - Selenium(浏览器自动化测试框架)_百度百科
+2018-11-15 23:57:41,004 - framework - INFO - 功能自动化测试工具——Selenium篇
+2018-11-15 23:57:41,023 - framework - INFO - selenium用法详解 - 天涯笨熊的博客 - CSDN博客
+2018-11-15 23:57:41,044 - framework - INFO - python爬虫从入门到放弃(八)之 Selenium库的使用 - pytho..._博客园
+2018-11-15 23:57:41,064 - framework - INFO - Selenium Documentation — Selenium Documentation
+2018-11-15 23:57:41,083 - framework - INFO - selenium用法详解 - 道高一尺 - 博客园
+2018-11-15 23:57:41,102 - framework - INFO - selenium package - selenium · PyPI
+2018-11-15 23:57:41,121 - framework - INFO - Selenium Webdriver - Selenium教程™
+2018-11-15 23:57:41,148 - framework - INFO - 基于Selenium的web自动化框架 - 徐文 - 博客园
+2018-11-15 23:57:43,488 - framework - INFO - 二百五_百度百科
+2018-11-15 23:57:43,516 - framework - INFO - 豆瓣电影 Top 250
+2018-11-15 23:57:43,541 - framework - INFO - 作文250字|250字作文大全-查字典作文网
+2018-11-15 23:57:43,562 - framework - INFO - 为什么骂人要骂250?250什么意思?_百度知道
+2018-11-15 23:57:43,583 - framework - INFO - 18款雅马哈飞致250到店,仍售1.98万,网友:跟春风250NK怎么比
+2018-11-15 23:57:43,602 - framework - INFO - 250定律_百度百科
+2018-11-15 23:57:43,622 - framework - INFO - 250年_百度百科
+2018-11-15 23:57:43,641 - framework - INFO - 妖精的尾巴 第250集 艾尔莎vs米涅露芭-动漫-高清完整版在..._...
+2018-11-15 23:57:43,661 - framework - INFO - 幸福250摩托车_百度百科
+2018-11-15 23:57:43,682 - framework - INFO - 250(词语含义)_百度百科
+2018-11-15 23:58:28,302 - framework - INFO - Selenium - Web Browser Automation
+2018-11-15 23:58:28,326 - framework - INFO - Selenium(浏览器自动化测试框架)_百度百科
+2018-11-15 23:58:28,346 - framework - INFO - 功能自动化测试工具——Selenium篇
+2018-11-15 23:58:28,365 - framework - INFO - selenium用法详解 - 天涯笨熊的博客 - CSDN博客
+2018-11-15 23:58:28,385 - framework - INFO - python爬虫从入门到放弃(八)之 Selenium库的使用 - pytho..._博客园
+2018-11-15 23:58:28,405 - framework - INFO - Selenium Documentation — Selenium Documentation
+2018-11-15 23:58:28,425 - framework - INFO - selenium用法详解 - 道高一尺 - 博客园
+2018-11-15 23:58:28,445 - framework - INFO - selenium package - selenium · PyPI
+2018-11-15 23:58:28,465 - framework - INFO - Selenium Webdriver - Selenium教程™
+2018-11-15 23:58:28,485 - framework - INFO - 基于Selenium的web自动化框架 - 徐文 - 博客园
+2018-11-15 23:58:56,238 - framework - INFO - Selenium - Web Browser Automation
+2018-11-15 23:58:56,261 - framework - INFO - Selenium(浏览器自动化测试框架)_百度百科
+2018-11-15 23:58:56,280 - framework - INFO - 功能自动化测试工具——Selenium篇
+2018-11-15 23:58:56,300 - framework - INFO - selenium用法详解 - 天涯笨熊的博客 - CSDN博客
+2018-11-15 23:58:56,319 - framework - INFO - python爬虫从入门到放弃(八)之 Selenium库的使用 - pytho..._博客园
+2018-11-15 23:58:56,338 - framework - INFO - Selenium Documentation — Selenium Documentation
+2018-11-15 23:58:56,358 - framework - INFO - selenium用法详解 - 道高一尺 - 博客园
+2018-11-15 23:58:56,378 - framework - INFO - selenium package - selenium · PyPI
+2018-11-15 23:58:56,398 - framework - INFO - Selenium Webdriver - Selenium教程™
+2018-11-15 23:58:56,418 - framework - INFO - 基于Selenium的web自动化框架 - 徐文 - 博客园
+2018-11-15 23:58:58,694 - framework - INFO - 二百五_百度百科
+2018-11-15 23:58:58,716 - framework - INFO - 豆瓣电影 Top 250
+2018-11-15 23:58:58,736 - framework - INFO - 作文250字|250字作文大全-查字典作文网
+2018-11-15 23:58:58,756 - framework - INFO - 为什么骂人要骂250?250什么意思?_百度知道
+2018-11-15 23:58:58,776 - framework - INFO - 18款雅马哈飞致250到店,仍售1.98万,网友:跟春风250NK怎么比
+2018-11-15 23:58:58,794 - framework - INFO - 250定律_百度百科
+2018-11-15 23:58:58,814 - framework - INFO - 250年_百度百科
+2018-11-15 23:58:58,832 - framework - INFO - 妖精的尾巴 第250集 艾尔莎vs米涅露芭-动漫-高清完整版在..._...
+2018-11-15 23:58:58,850 - framework - INFO - 幸福250摩托车_百度百科
+2018-11-15 23:58:58,868 - framework - INFO - 250(词语含义)_百度百科
+2018-11-16 00:23:11,976 - framework - INFO - Selenium - Web Browser Automation
+2018-11-16 00:23:11,998 - framework - INFO - Selenium(浏览器自动化测试框架)_百度百科
+2018-11-16 00:23:12,018 - framework - INFO - 功能自动化测试工具——Selenium篇
+2018-11-16 00:23:12,037 - framework - INFO - selenium用法详解 - 天涯笨熊的博客 - CSDN博客
+2018-11-16 00:23:12,059 - framework - INFO - python爬虫从入门到放弃(八)之 Selenium库的使用 - pytho..._博客园
+2018-11-16 00:23:12,080 - framework - INFO - Selenium Documentation — Selenium Documentation
+2018-11-16 00:23:12,099 - framework - INFO - selenium用法详解 - 道高一尺 - 博客园
+2018-11-16 00:23:12,120 - framework - INFO - selenium package - selenium · PyPI
+2018-11-16 00:23:12,141 - framework - INFO - Selenium Webdriver - Selenium教程™
+2018-11-16 00:23:12,166 - framework - INFO - 基于Selenium的web自动化框架 - 徐文 - 博客园
+2018-11-16 00:23:31,476 - framework - INFO - 【灰蓝】只有想不通的人,没有走不通的路。 - CSDN博客
+2018-11-16 00:23:31,498 - framework - INFO - ...—— selenium与自动化测试成神之路 - 灰蓝 - CSDN博客...
+2018-11-16 00:23:31,516 - framework - INFO - ...搭建一个既可以功能测试+又可以接口测试框架(灰蓝作..._CSDN博客
+2018-11-16 00:23:31,538 - framework - INFO - Python selenium —— 动态id、class怎么定位 - 灰蓝 - CSDN博客
+2018-11-16 00:23:31,559 - framework - INFO - 【灰蓝】Selenium - CSDN博客
+2018-11-16 00:23:31,578 - framework - INFO - selenium之 下拉选择框Select - 灰蓝 - CSDN博客
+2018-11-16 00:23:31,599 - framework - INFO - selenium 学习网站 - 灰蓝 - CSDN博客
+2018-11-16 00:23:31,619 - framework - INFO - selenium之 文件上传所有方法整理总结 - 灰蓝 - CSDN博客
+2018-11-16 00:23:31,640 - framework - INFO - Python+Selenium学习--自动化测试模型 - uniquefu - 博客园
+2018-11-16 00:23:31,661 - framework - INFO - selenium之 时间日期控件的处理 - 灰蓝 - CSDN博客
+2018-11-16 00:23:45,987 - framework - INFO - python爬虫从入门到放弃(八)之 Selenium库的使用 - pytho...-博客园
+2018-11-16 00:23:46,009 - framework - INFO - python bindings for selenium - selenium · PyPI
+2018-11-16 00:23:46,032 - framework - INFO - Selenium with Python — Selenium Python Bindings 2 ...
+2018-11-16 00:23:46,052 - framework - INFO - Selenium基于Python 进行 web 自动化测试 - 韩小北 - 博客园
+2018-11-16 00:23:46,072 - framework - INFO - Python 爬虫基础Selenium库的使用(二十二01) - 凯耐的博客 - CSDN...
+2018-11-16 00:23:46,095 - framework - INFO - selenium+python自动化测试系列(一):登录 - janehost - 博客园
+2018-11-16 00:23:46,116 - framework - INFO - Python Selenium个人学习笔记 - lonlon29的博客 - CSDN博客
+2018-11-16 00:23:46,136 - framework - INFO - Python+selenium基础学习 - csdn_sea的博客 - CSDN博客
+2018-11-16 00:23:46,156 - framework - INFO - 2. 快速入门 — Selenium-Python中文文档 2 documentation
+2018-11-16 00:23:46,180 - framework - INFO - Selenium with Python中文翻译文档 — Selenium-Python中文文档 2...
+2018-11-16 00:24:12,335 - framework - INFO - Selenium - Web Browser Automation
+2018-11-16 00:24:12,359 - framework - INFO - Selenium(浏览器自动化测试框架)_百度百科
+2018-11-16 00:24:12,379 - framework - INFO - 功能自动化测试工具——Selenium篇
+2018-11-16 00:24:12,399 - framework - INFO - selenium用法详解 - 天涯笨熊的博客 - CSDN博客
+2018-11-16 00:24:12,420 - framework - INFO - python爬虫从入门到放弃(八)之 Selenium库的使用 - pytho..._博客园
+2018-11-16 00:24:12,442 - framework - INFO - Selenium Documentation — Selenium Documentation
+2018-11-16 00:24:12,462 - framework - INFO - selenium用法详解 - 道高一尺 - 博客园
+2018-11-16 00:24:12,484 - framework - INFO - selenium package - selenium · PyPI
+2018-11-16 00:24:12,508 - framework - INFO - Selenium Webdriver - Selenium教程™
+2018-11-16 00:24:12,527 - framework - INFO - 基于Selenium的web自动化框架 - 徐文 - 博客园
+2018-11-16 00:24:16,000 - framework - INFO - 二百五_百度百科
+2018-11-16 00:24:16,023 - framework - INFO - 豆瓣电影 Top 250
+2018-11-16 00:24:16,043 - framework - INFO - 作文250字|250字作文大全-查字典作文网
+2018-11-16 00:24:16,064 - framework - INFO - 为什么骂人要骂250?250什么意思?_百度知道
+2018-11-16 00:24:16,083 - framework - INFO - 18款雅马哈飞致250到店,仍售1.98万,网友:跟春风250NK怎么比
+2018-11-16 00:24:16,102 - framework - INFO - 250定律_百度百科
+2018-11-16 00:24:16,129 - framework - INFO - 250年_百度百科
+2018-11-16 00:24:16,148 - framework - INFO - 妖精的尾巴 第250集 艾尔莎vs米涅露芭-动漫-高清完整版在..._...
+2018-11-16 00:24:16,167 - framework - INFO - 幸福250摩托车_百度百科
+2018-11-16 00:24:16,189 - framework - INFO - 250(词语含义)_百度百科
+2018-11-16 00:24:26,209 - framework - INFO - 【灰蓝】只有想不通的人,没有走不通的路。 - CSDN博客
+2018-11-16 00:24:26,231 - framework - INFO - ...—— selenium与自动化测试成神之路 - 灰蓝 - CSDN博客...
+2018-11-16 00:24:26,251 - framework - INFO - ...搭建一个既可以功能测试+又可以接口测试框架(灰蓝作..._CSDN博客
+2018-11-16 00:24:26,271 - framework - INFO - Python selenium —— 动态id、class怎么定位 - 灰蓝 - CSDN博客
+2018-11-16 00:24:26,292 - framework - INFO - 【灰蓝】Selenium - CSDN博客
+2018-11-16 00:24:26,312 - framework - INFO - selenium之 下拉选择框Select - 灰蓝 - CSDN博客
+2018-11-16 00:24:26,334 - framework - INFO - selenium 学习网站 - 灰蓝 - CSDN博客
+2018-11-16 00:24:26,354 - framework - INFO - selenium之 文件上传所有方法整理总结 - 灰蓝 - CSDN博客
+2018-11-16 00:24:26,372 - framework - INFO - Python+Selenium学习--自动化测试模型 - uniquefu - 博客园
+2018-11-16 00:24:26,391 - framework - INFO - selenium之 时间日期控件的处理 - 灰蓝 - CSDN博客
+2018-11-16 00:24:46,386 - framework - INFO - python爬虫从入门到放弃(八)之 Selenium库的使用 - pytho...-博客园
+2018-11-16 00:24:46,407 - framework - INFO - official selenium python bindings - selenium · PyPI
+2018-11-16 00:24:46,433 - framework - INFO - Selenium with Python — Selenium Python Bindings 2 ...
+2018-11-16 00:24:46,456 - framework - INFO - Selenium基于Python 进行 web 自动化测试 - 韩小北 - 博客园
+2018-11-16 00:24:46,477 - framework - INFO - Python 爬虫基础Selenium库的使用(二十二01) - 凯耐的博客 - CSDN...
+2018-11-16 00:24:46,497 - framework - INFO - selenium+python自动化测试系列(一):登录 - janehost - 博客园
+2018-11-16 00:24:46,517 - framework - INFO - Python Selenium个人学习笔记 - lonlon29的博客 - CSDN博客
+2018-11-16 00:24:46,537 - framework - INFO - Python+selenium基础学习 - csdn_sea的博客 - CSDN博客
+2018-11-16 00:24:46,572 - framework - INFO - 2. 快速入门 — Selenium-Python中文文档 2 documentation
+2018-11-16 00:24:46,598 - framework - INFO - Selenium with Python中文翻译文档 — Selenium-Python中文文档 2...
