@@ -53,6 +53,8 @@ class TestBaidu(unittest.TestCase):
 
     def execute_add(self):
         print("bbbaaaaaaaaaaaaaaaaaaaaaaaaaaaaa")
+        self.assertEqual('1', '2')
+        raise AssertionError('For testing')
 
     def test_search_excel(self):
         datas = ExcelReader(self.excel).data

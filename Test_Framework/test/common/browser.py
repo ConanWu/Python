@@ -24,6 +24,7 @@ class Browser(object):
         if self._type in TYPES:
             self.browser = TYPES[self._type]
         else:
+            raise AssertionError('For testingpage')
             raise UnSupportedBrowserError('only support%s' % ','.join(TYPES.keys()))
         self.driver = None
 

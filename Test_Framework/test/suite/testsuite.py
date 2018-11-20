@@ -23,7 +23,7 @@ if __name__ == '__main__':
     suite.addTest(TestBaidu('execute_add'))
     reportFile = (REPORT_PATH + '\\report1.html')
     with open(reportFile, 'wb') as r:
-        runner = unittest.TextTestRunner(verbosity=2)
+        # runner = unittest.TextTestRunner(verbosity=2)
         runner = HTMLTestRunner(r, verbosity=2, title='测试百度搜索1', description='修改报告1')
         runner.run(suite)
 
