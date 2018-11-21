@@ -57,6 +57,7 @@ class ExcelReader:
                     self._data.append(s.row_values())
         return self._data
 
+
 if __name__ == '__main__':
     y = 'E:\moving\GIT\Python\Test_Framework\config\config.yml'
     reader = YamlReader(y)
