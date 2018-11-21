@@ -15,8 +15,8 @@ if __name__ == '__main__':
     # suite.addTests(tests)
 
     # execute all the test cases under the class
-    cases = unittest.TestLoader().loadTestsFromTestCase(TestBaidu)
-    suite = unittest.TestSuite([cases])
+    # cases = unittest.TestLoader().loadTestsFromTestCase(TestBaidu)
+    # suite = unittest.TestSuite([cases])
     #cases2=unittest.TestLoader().loadTestsFromTestCase(TestBaidu2)
     #suite=unittest.TestSuite([cases, cases2])
 

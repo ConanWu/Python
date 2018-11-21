@@ -12,6 +12,7 @@ from Test_Framework.utils.log import logger
 from Test_Framework.utils.file_reader import ExcelReader
 from Test_Framework.utils.HTMLTestRunner import HTMLTestRunner
 from Test_Framework.test.page.baidu_result_page import BaiduMainPage, BaiduResultPage
+from Test_Framework.utils.assertion import Assertion
 
 
 class TestBaidu(unittest.TestCase):
@@ -53,7 +54,8 @@ class TestBaidu(unittest.TestCase):
 
     def execute_add(self):
         print("bbbaaaaaaaaaaaaaaaaaaaaaaaaaaaaa")
-        self.assertEqual('1', '2')
+        self.assertEqual('1', '1')
+        Assertion.assert_compare(1, 2)
         raise AssertionError('For testing')
 
     def test_search_excel(self):
