@@ -21,6 +21,7 @@ if __name__ == '__main__':
     #suite=unittest.TestSuite([cases, cases2])
 
     suite.addTest(TestBaidu('execute_add'))
+    suite.addTest(TestBaidu('test_baidu_http'))
     reportFile = (REPORT_PATH + '\\report1.html')
     with open(reportFile, 'wb') as r:
         # runner = unittest.TextTestRunner(verbosity=2)

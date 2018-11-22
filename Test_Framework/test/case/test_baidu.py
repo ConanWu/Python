@@ -13,6 +13,7 @@ from Test_Framework.utils.file_reader import ExcelReader
 from Test_Framework.utils.HTMLTestRunner import HTMLTestRunner
 from Test_Framework.test.page.baidu_result_page import BaiduMainPage, BaiduResultPage
 from Test_Framework.utils.assertion import Assertion
+from Test_Framework.utils.client import HTTPClient
 
 
 class TestBaidu(unittest.TestCase):
@@ -57,6 +58,12 @@ class TestBaidu(unittest.TestCase):
         self.assertEqual('1', '1')
         Assertion.assert_compare(1, 2)
         raise AssertionError('For testing')
+
+    def test_baidu_http(self):
+        self.client = HTTPClient(self.URL, method='GET')
+        res = self.client.send()
+        logger.debug(res.text)
+        self.assertIn('百度一下，你就知道', res.text)
 
     def test_search_excel(self):
         datas = ExcelReader(self.excel).data
