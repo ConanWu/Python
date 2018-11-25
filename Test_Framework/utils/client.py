@@ -37,7 +37,7 @@ class HTTPClient(object):
             self.session.cookies.update(cookies)
 
     def send(self, params=None, data=None, **kwargs):
-        response =self.session.request(method=self.method, url=self.url, params=params, data=data, **kwargs)
+        response = self.session.request(method=self.method, url=self.url, params=params, data=data, **kwargs)
         response.encoding = 'utf-8'
         logger.debug('{0} {1}'.format(self.method, self.url))
         logger.debug('request successful: {0}\n{1}'.format(response, response.text))
